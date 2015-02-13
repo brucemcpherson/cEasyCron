@@ -1,9 +1,11 @@
 # Google Apps Script Project: cEasyCron
-This repo (cEasyCron) was automatically updated on 11 February 2015 18:31:49 GMT by undefined version undefined
+This repo (cEasyCron) was automatically updated on 13 February 2015 21:20:23 GMT by GasGit
 
 For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation") or [contact me on G+](https://plus.google.com/+BruceMcpherson "Bruce McPherson - GDE")
 ## Details for Apps Script project cEasyCron
-Where possibile directly referenced or sub referenced library sources have been copied to this repository - or you can link to the project ids shown
+Where possibile directly referenced or sub referenced library sources have been copied to this repository, or you can include the library references shown. 
+The shared link for [cEasyCron is here](https://script.google.com/d/1EuigTk8ca4NmIupOlF3qAgCndmgbvNLbJFVbMDGL5w5at8hsXxkKGtwr/edit?usp=sharing "open in the GAS IDE")
+
 ### Modules of cEasyCron.gs included in this repo
 *name*|*type*
 --- | --- 
@@ -13,8 +15,8 @@ forPublishing| server_js
 ### Directly referenced libraries
 no libraries discovered
 ### All dependencies and sub dependencies
-*library*|*identifier*|*key*|*version*|*development mode*|*source available*|
---- | --- | --- | --- | --- | --- 
-
+no libraries discovered
+### Enabled Google Services
+no libraries discovered
 ###Need more detail ?
 You can see [full project info as json here](info.json)
